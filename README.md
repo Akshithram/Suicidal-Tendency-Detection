@@ -1,1 +1,2 @@
 # Suicidal-Tendency-Detection
+Developed a Python-based GUI application that detects suicidal tendencies using survey data. The system leverages Convolutional Neural Networks (CNN) and Random Forest algorithms for classification. It includes data preprocessing, SMOTE for class imbalance handling and machine translation for categorical features. A user-friendly interface built with Tkinter allows loading datasets, training models and predicting outcomes.
